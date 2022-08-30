@@ -33,7 +33,6 @@ img {
     margin: 20px auto;
     display: flex;
     align-items: center;
-
     -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
@@ -57,7 +56,6 @@ button {
 .arrbtns {
     height: 35px;
     border-radius: 100%;
-
     -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
@@ -182,8 +180,6 @@ hr {
     gap: 20px;
     justify-content: space-between;
 }
-
-
 
 #content {
     width: 600px;
